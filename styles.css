@@ -77,17 +77,22 @@ header div img {
 }
 .section-1-part-1 span {
   color: blue;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  letter-spacing: 1.2px;
 }
 .section-1-part-1 h3 {
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   margin-bottom: 1rem;
+  margin-top: 0.34rem;
   line-height: 1.5;
+  letter-spacing: 1.2px;
 }
 .section-1-part-1 p {
-  width: 28rem;
+  width: 40rem;
   color: gray;
   font-size: 1.6rem;
+  line-height: 1.2;
+  letter-spacing: 1.2px;
 }
 .section-1-part-2 {
   display: flex;
